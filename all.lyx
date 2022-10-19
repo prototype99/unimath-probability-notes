@@ -1766,5 +1766,65 @@ key trying scenario
 Total probability and Bayes theorem
 \end_layout
 
+\begin_layout Standard
+Total probability is demonstrated through the logic: B∩B
+\begin_inset Formula $^{c}$
+\end_inset
+
+=∅, then (A∩B)∩(A∩B
+\begin_inset Formula $^{c}$
+\end_inset
+
+)=∅
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+example:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+A company produces electrical components using three shifts.
+ During the first shift 50% of components are produced with 20% and 30%
+ being produced on shifts 2 and 3, respectively.
+ The proportion of defective components produced during shift 1 is 6%.
+ For shifts 2 and 3 the proportions are 8% and 12% respectively.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+percentage of defective components:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+0.5
+\begin_inset Formula $\times$
+\end_inset
+
+0.06+0.2
+\begin_inset Formula $\times$
+\end_inset
+
+0.08+0.3
+\begin_inset Formula $\times$
+\end_inset
+
+0.12✓
+\end_layout
+
 \end_body
 \end_document
