@@ -1864,5 +1864,53 @@ graph of x
 
 \end_layout
 
+\begin_layout Subsubsection
+mean and variance of x
+\end_layout
+
+\begin_layout Standard
+mean:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+E[X]=4.5 (each value multiplied by 0.125)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+variance:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+E[X
+\begin_inset Formula $^{2}$
+\end_inset
+
+]=25.5 (each squared value multiplied by 0.125)
+\begin_inset Newline newline
+\end_inset
+
+var(X)=25.5-4.5
+\begin_inset Formula $^{2}$
+\end_inset
+
+=5.25
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document
