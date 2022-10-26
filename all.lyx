@@ -1877,7 +1877,11 @@ mean:
 \begin_inset Newline newline
 \end_inset
 
-E[X]=4.5 (each value multiplied by 0.125)
+E[
+\emph on
+X
+\emph default
+]=4.5 (each value multiplied by 0.125)
 \begin_inset Newline newline
 \end_inset
 
@@ -1893,7 +1897,11 @@ variance:
 \begin_inset Newline newline
 \end_inset
 
-E[X
+E[
+\emph on
+X
+\emph default
+
 \begin_inset Formula $^{2}$
 \end_inset
 
@@ -1901,15 +1909,256 @@ E[X
 \begin_inset Newline newline
 \end_inset
 
-var(X)=25.5-4.5
+var(
+\emph on
+X
+\emph default
+)=25.5-4.5
 \begin_inset Formula $^{2}$
 \end_inset
 
 =5.25
-\begin_inset Newline newline
+\end_layout
+
+\begin_layout Subsubsection
+extended calculations of 
+\emph on
+X
+\end_layout
+
+\begin_layout Standard
+i.
+ 3
+\emph on
+X
+\emph default
++5=3
+\begin_inset Formula $\times$
+\end_inset
+
+4.5+5=18.5
+\end_layout
+
+\begin_layout Subsection
+random draws without replacement
+\end_layout
+
+\begin_layout Standard
+An urn contains two yellow balls and three red balls.
+ Three balls are drawn at random from the urn without replacement.
+\end_layout
+
+\begin_layout Subsubsection
+tree diagram
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename 5.3.svg
+	width 100text%
+
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="8">
+<features tabularvalignment="middle" tabularwidth="100text%">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.6
+\begin_inset Formula $\times$
+\end_inset
+
+0.5
+\begin_inset Formula $\times$
+\end_inset
+
+0.
+\begin_inset Formula $\dot{3}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.6
+\begin_inset Formula $\times$
+\end_inset
+
+0.5
+\begin_inset Formula $\times$
+\end_inset
+
+0.
+\begin_inset Formula $\dot{6}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.6
+\begin_inset Formula $\times$
+\end_inset
+
+0.4
+\begin_inset Formula $\times$
+\end_inset
+
+0.
+\begin_inset Formula $\dot{6}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.6
+\begin_inset Formula $\times$
+\end_inset
+
+0.4
+\begin_inset Formula $\times$
+\end_inset
+
+0.
+\begin_inset Formula $\dot{3}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.4
+\begin_inset Formula $\times$
+\end_inset
+
+0.6
+\begin_inset Formula $\times$
+\end_inset
+
+0.
+\begin_inset Formula $\dot{6}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.4
+\begin_inset Formula $\times$
+\end_inset
+
+0.6
+\begin_inset Formula $\times$
+\end_inset
+
+0.
+\begin_inset Formula $\dot{3}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.4
+\begin_inset Formula $\times$
+\end_inset
+
+0.25
+\begin_inset Formula $\times$
+\end_inset
+
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.4
+\begin_inset Formula $\times$
+\end_inset
+
+0.25
+\begin_inset Formula $\times$
+\end_inset
+
+0
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+infinite coin toss example
+\end_layout
+
+\begin_layout Standard
+A game consists of tossing a coin until the first head appears.
+ The score recorded is the number of tosses required.
+ see example 5.7?
+\end_layout
+
+\begin_layout Subsection
+two fair dice are rolled and total score recorded
+\end_layout
+
+\begin_layout Subsection
+two fair dice are rolled and maximum score recorded
 \end_layout
 
 \end_body

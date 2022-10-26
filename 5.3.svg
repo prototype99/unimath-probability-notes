@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="diagramSvg"
+   version="1.1"
+   sodipodi:docname="5.3.svg"
+   width="822.5"
+   height="444.5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview130"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="4.3466667"
+     inkscape:cx="367.8681"
+     inkscape:cy="1.1503067"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="diagramSvg" />
+  <style
+     id="stylesheet">text {
+  text-anchor: middle;
+  font-size: small;
+  font-weight: bold;
+}
+
+rect {
+  fill: lightblue;
+  stroke: black;
+  opacity: 0.5;
+  stroke-width: 1.5;
+}
+
+line {
+  stroke: black;
+  opacity: 0.5;
+  stroke-width: 1.5;
+}
+  </style>
+  <style
+     class="darkreader darkreader--sync"
+     media="screen"
+     id="style3" />
+  <defs
+     id="defs8">
+    <marker
+       id="arrowHead"
+       viewBox="-10 -5 10 10"
+       markerUnits="strokeWidth"
+       markerWidth="6"
+       markerHeight="5"
+       orient="auto">
+      <path
+         d="M -10,-5 0,0 -10,5 Z"
+         id="path5" />
+    </marker>
+  </defs>
+  <g
+     id="diagramGroup"
+     transform="translate(-38.25,0.75)">
+    <rect
+       x="415"
+       y="0"
+       width="68"
+       height="58"
+       id="rect10" />
+    <text
+       x="450"
+       y="0"
+       id="text14"><tspan
+         x="450"
+         dy="34.666668"
+         id="tspan12">origin</tspan></text>
+    <rect
+       x="190"
+       y="128"
+       width="68"
+       height="58"
+       id="rect16" />
+    <text
+       x="224"
+       y="128"
+       id="text20"><tspan
+         x="224"
+         dy="34.666668"
+         id="tspan18">R</tspan></text>
+    <line
+       x1="438"
+       y1="58"
+       x2="224"
+       y2="128"
+       marker-end="url(#arrowHead)"
+       id="line22" />
+    <rect
+       x="641"
+       y="128"
+       width="68"
+       height="58"
+       id="rect24" />
+    <text
+       x="675"
+       y="128"
+       id="text28"><tspan
+         x="675"
+         dy="34.666668"
+         id="tspan26">Y</tspan></text>
+    <line
+       x1="461"
+       y1="58"
+       x2="675"
+       y2="128"
+       marker-end="url(#arrowHead)"
+       id="line30" />
+    <rect
+       x="77"
+       y="256"
+       width="68"
+       height="58"
+       id="rect32" />
+    <text
+       x="111"
+       y="256"
+       id="text36"><tspan
+         x="111"
+         dy="34.666668"
+         id="tspan34">R</tspan></text>
+    <line
+       x1="212"
+       y1="186"
+       x2="111"
+       y2="256"
+       marker-end="url(#arrowHead)"
+       id="line38" />
+    <rect
+       x="303"
+       y="256"
+       width="68"
+       height="58"
+       id="rect40" />
+    <text
+       x="337"
+       y="256"
+       id="text44"><tspan
+         x="337"
+         dy="34.666668"
+         id="tspan42">Y</tspan></text>
+    <line
+       x1="235"
+       y1="186"
+       x2="337"
+       y2="256"
+       marker-end="url(#arrowHead)"
+       id="line46" />
+    <rect
+       x="528"
+       y="256"
+       width="68"
+       height="58"
+       id="rect48" />
+    <text
+       x="562"
+       y="256"
+       id="text52"><tspan
+         x="562"
+         dy="34.666668"
+         id="tspan50">R</tspan></text>
+    <line
+       x1="664"
+       y1="186"
+       x2="562"
+       y2="256"
+       marker-end="url(#arrowHead)"
+       id="line54" />
+    <rect
+       x="754"
+       y="256"
+       width="68"
+       height="58"
+       id="rect56" />
+    <text
+       x="788"
+       y="256"
+       id="text60"><tspan
+         x="788"
+         dy="34.666668"
+         id="tspan58">Y</tspan></text>
+    <line
+       x1="687"
+       y1="186"
+       x2="788"
+       y2="256"
+       marker-end="url(#arrowHead)"
+       id="line62" />
+    <rect
+       x="39"
+       y="385"
+       width="68"
+       height="58"
+       id="rect64" />
+    <text
+       x="73"
+       y="385"
+       id="text68"><tspan
+         x="73"
+         dy="34.666668"
+         id="tspan66">R</tspan></text>
+    <line
+       x1="100"
+       y1="315"
+       x2="73"
+       y2="385"
+       marker-end="url(#arrowHead)"
+       id="line70" />
+    <rect
+       x="115"
+       y="385"
+       width="68"
+       height="58"
+       id="rect72" />
+    <text
+       x="149"
+       y="385"
+       id="text76"><tspan
+         x="149"
+         dy="34.666668"
+         id="tspan74">Y</tspan></text>
+    <line
+       x1="122"
+       y1="315"
+       x2="149"
+       y2="385"
+       marker-end="url(#arrowHead)"
+       id="line78" />
+    <rect
+       x="265"
+       y="385"
+       width="68"
+       height="58"
+       id="rect80" />
+    <text
+       x="299"
+       y="385"
+       id="text84"><tspan
+         x="299"
+         dy="34.666668"
+         id="tspan82">R</tspan></text>
+    <line
+       x1="325"
+       y1="315"
+       x2="299"
+       y2="385"
+       marker-end="url(#arrowHead)"
+       id="line86" />
+    <rect
+       x="340"
+       y="385"
+       width="68"
+       height="58"
+       id="rect88" />
+    <text
+       x="375"
+       y="385"
+       id="text92"><tspan
+         x="375"
+         dy="34.666668"
+         id="tspan90">Y</tspan></text>
+    <line
+       x1="348"
+       y1="315"
+       x2="375"
+       y2="385"
+       marker-end="url(#arrowHead)"
+       id="line94" />
+    <rect
+       x="490"
+       y="385"
+       width="68"
+       height="58"
+       id="rect96" />
+    <text
+       x="525"
+       y="385"
+       id="text100"><tspan
+         x="525"
+         dy="34.666668"
+         id="tspan98">R</tspan></text>
+    <line
+       x1="551"
+       y1="315"
+       x2="525"
+       y2="385"
+       marker-end="url(#arrowHead)"
+       id="line102" />
+    <rect
+       x="566"
+       y="385"
+       width="68"
+       height="58"
+       id="rect104" />
+    <text
+       x="600"
+       y="385"
+       id="text108"><tspan
+         x="600"
+         dy="34.666668"
+         id="tspan106">Y</tspan></text>
+    <line
+       x1="574"
+       y1="315"
+       x2="600"
+       y2="385"
+       marker-end="url(#arrowHead)"
+       id="line110" />
+    <rect
+       x="716"
+       y="385"
+       width="68"
+       height="58"
+       id="rect112" />
+    <text
+       x="750"
+       y="385"
+       id="text116"><tspan
+         x="750"
+         dy="34.666668"
+         id="tspan114">R</tspan></text>
+    <line
+       x1="777"
+       y1="315"
+       x2="750"
+       y2="385"
+       marker-end="url(#arrowHead)"
+       id="line118" />
+    <rect
+       x="792"
+       y="385"
+       width="68"
+       height="58"
+       id="rect120" />
+    <text
+       x="826"
+       y="385"
+       id="text124"><tspan
+         x="826"
+         dy="34.666668"
+         id="tspan122">Y</tspan></text>
+    <line
+       x1="799"
+       y1="315"
+       x2="826"
+       y2="385"
+       marker-end="url(#arrowHead)"
+       id="line126" />
+  </g>
+</svg>
