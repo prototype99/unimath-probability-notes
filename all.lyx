@@ -2436,5 +2436,50 @@ poisson distribution
 used to estimate number of events in a set scalable interval
 \end_layout
 
+\begin_layout Subsection
+skip
+\end_layout
+
+\begin_layout Subsection
+plant distribution
+\end_layout
+
+\begin_layout Standard
+A biologist on a field study has found that the number of plant species
+ in a 1m
+\begin_inset Formula $^{2}$
+\end_inset
+
+ square follows a Poisson distribution with mean 6
+\end_layout
+
+\begin_layout Subsubsection
+Find the probability that the number of plant species in a given 1m
+\begin_inset Formula $^{2}$
+\end_inset
+
+ quad rant is...
+\end_layout
+
+\begin_layout Standard
+i.
+ at least 8
+\begin_inset Newline newline
+\end_inset
+
+ii.
+ less than or equal to 8
+\begin_inset Newline newline
+\end_inset
+
+iii.
+ exactly 8
+\begin_inset Newline newline
+\end_inset
+
+iv.
+ between 6 and 12 inclusive
+\end_layout
+
 \end_body
 \end_document
