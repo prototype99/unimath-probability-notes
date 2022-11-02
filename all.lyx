@@ -2340,6 +2340,94 @@ P(I
 P(I=6)=0.9133−0.8042=0.1091✓
 \end_layout
 
+\begin_layout Subsubsection
+<4 have antibodies
+\end_layout
+
+\begin_layout Standard
+P(X=0)=
+\begin_inset Formula $^{20}$
+\end_inset
+
+C
+\begin_inset Formula $_{0}$
+\end_inset
+
+0.2
+\begin_inset Formula $^{0}$
+\end_inset
+
+(1-0.2)
+\begin_inset Formula $^{20-0}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(X=1)=
+\begin_inset Formula $^{20}$
+\end_inset
+
+C
+\begin_inset Formula $_{1}$
+\end_inset
+
+0.2
+\begin_inset Formula $^{1}$
+\end_inset
+
+(1-0.2)
+\begin_inset Formula $^{20-1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(X=2)=
+\begin_inset Formula $^{20}$
+\end_inset
+
+C
+\begin_inset Formula $_{2}$
+\end_inset
+
+0.2
+\begin_inset Formula $^{2}$
+\end_inset
+
+(1-0.2)
+\begin_inset Formula $^{20-2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(X=3)=
+\begin_inset Formula $^{20}$
+\end_inset
+
+C
+\begin_inset Formula $_{3}$
+\end_inset
+
+0.2
+\begin_inset Formula $^{3}$
+\end_inset
+
+(1-0.2)
+\begin_inset Formula $^{20-3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+between 3 and 6 have antibodies
+\end_layout
+
 \begin_layout Section
 poisson distribution
 \end_layout
