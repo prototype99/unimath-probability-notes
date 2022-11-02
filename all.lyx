@@ -2161,5 +2161,18 @@ two fair dice are rolled and total score recorded
 two fair dice are rolled and maximum score recorded
 \end_layout
 
+\begin_layout Section
+skip
+\end_layout
+
+\begin_layout Section
+binomial distribution
+\end_layout
+
+\begin_layout Standard
+this is used to estimate failures and successes in a given number of trials
+ with a given probability of success
+\end_layout
+
 \end_body
 \end_document
