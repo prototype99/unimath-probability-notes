@@ -2294,6 +2294,52 @@ C
 
 \end_layout
 
+\begin_layout Subsection
+virus example
+\end_layout
+
+\begin_layout Standard
+It is estimated that 20% of all individuals carry antibodies to a particular
+ virus.
+ What is the probability that in a group of 20 randomly selected individuals...
+\end_layout
+
+\begin_layout Subsubsection
+>8 have antibodies
+\end_layout
+
+\begin_layout Standard
+P(I
+\begin_inset Formula $\leq$
+\end_inset
+
+9)=0.9974
+\begin_inset Newline newline
+\end_inset
+
+P(I
+\begin_inset Formula $\geq$
+\end_inset
+
+9)=1−0.9900=0.01✓
+\end_layout
+
+\begin_layout Subsubsection
+6 have antibodies
+\end_layout
+
+\begin_layout Standard
+P(I
+\begin_inset Formula $\leq$
+\end_inset
+
+6)=0.9133
+\begin_inset Newline newline
+\end_inset
+
+P(I=6)=0.9133−0.8042=0.1091✓
+\end_layout
+
 \begin_layout Section
 poisson distribution
 \end_layout
