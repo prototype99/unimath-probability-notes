@@ -2467,6 +2467,14 @@ i.
 \begin_inset Newline newline
 \end_inset
 
+P(X
+\begin_inset Formula $\leq$
+\end_inset
+
+8)=
+\begin_inset Newline newline
+\end_inset
+
 ii.
  less than or equal to 8
 \begin_inset Newline newline
@@ -2479,6 +2487,17 @@ iii.
 
 iv.
  between 6 and 12 inclusive
+\end_layout
+
+\begin_layout Subsection
+car inspection example
+\end_layout
+
+\begin_layout Standard
+When a car leaves a production line it is carefully examined for any signs
+ of imperfection in the paintwork.
+ Previous experience has shown the number of blemishes per car follows a
+ Poisson distribution with mean 0.4.
 \end_layout
 
 \end_body
