@@ -2174,6 +2174,126 @@ this is used to estimate failures and successes in a given number of trials
  with a given probability of success
 \end_layout
 
+\begin_layout Subsection
+skip
+\end_layout
+
+\begin_layout Subsection
+probability of ropes breaking
+\end_layout
+
+\begin_layout Standard
+Ropes are tested at a certain breaking strain.
+ 0.25 probability of ropes breaking.
+ If 4 identical ropes are tested, write down the probability distribution
+ of the number of ropes breaking.
+ (make a graph?)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(X=0)=
+\begin_inset Formula $^{4}$
+\end_inset
+
+C
+\begin_inset Formula $_{0}$
+\end_inset
+
+0.25
+\begin_inset Formula $^{0}$
+\end_inset
+
+(1-0.25)
+\begin_inset Formula $^{4-0}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(X=1)=
+\begin_inset Formula $^{4}$
+\end_inset
+
+C
+\begin_inset Formula $_{1}$
+\end_inset
+
+0.25
+\begin_inset Formula $^{1}$
+\end_inset
+
+(1-0.25)
+\begin_inset Formula $^{4-1}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(X=2)=
+\begin_inset Formula $^{4}$
+\end_inset
+
+C
+\begin_inset Formula $_{2}$
+\end_inset
+
+0.25
+\begin_inset Formula $^{2}$
+\end_inset
+
+(1-0.25)
+\begin_inset Formula $^{4-2}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(X=3)=
+\begin_inset Formula $^{4}$
+\end_inset
+
+C
+\begin_inset Formula $_{3}$
+\end_inset
+
+0.25
+\begin_inset Formula $^{3}$
+\end_inset
+
+(1-0.25)
+\begin_inset Formula $^{4-3}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+P(X=4)=
+\begin_inset Formula $^{4}$
+\end_inset
+
+C
+\begin_inset Formula $_{4}$
+\end_inset
+
+0.25
+\begin_inset Formula $^{4}$
+\end_inset
+
+(1-0.25)
+\begin_inset Formula $^{4-4}$
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 poisson distribution
 \end_layout
