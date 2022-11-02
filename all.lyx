@@ -2174,5 +2174,13 @@ this is used to estimate failures and successes in a given number of trials
  with a given probability of success
 \end_layout
 
+\begin_layout Section
+poisson distribution
+\end_layout
+
+\begin_layout Standard
+used to estimate number of events in a set scalable interval
+\end_layout
+
 \end_body
 \end_document
