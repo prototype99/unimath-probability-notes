@@ -2528,5 +2528,45 @@ P(Z > 1.7)
 P(Z > 2.35)
 \end_layout
 
+\begin_layout Standard
+0.0094
+\end_layout
+
+\begin_layout Subsubsection
+P(Z < -0.92)
+\end_layout
+
+\begin_layout Standard
+0.1788
+\end_layout
+
+\begin_layout Subsubsection
+P(Z < -2.33)
+\end_layout
+
+\begin_layout Standard
+0.0099
+\end_layout
+
+\begin_layout Subsubsection
+P(0.78 < Z < 2.56)
+\end_layout
+
+\begin_layout Standard
+P(Z>0.78)−P(Z>2.56)=0.2177-0.0052=0.2125
+\end_layout
+
+\begin_layout Subsubsection
+skip
+\end_layout
+
+\begin_layout Subsubsection
+P( -1.67 < Z < 2.58)
+\end_layout
+
+\begin_layout Standard
+P(Z>-1.67)−P(Z>2.58)=1 − P(Z>1.67)−P(Z>2.58)=(1-0.0475)-0.0049=0.9476✓
+\end_layout
+
 \end_body
 \end_document
