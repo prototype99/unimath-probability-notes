@@ -2568,5 +2568,84 @@ P( -1.67 < Z < 2.58)
 P(Z>-1.67)−P(Z>2.58)=1 − P(Z>1.67)−P(Z>2.58)=(1-0.0475)-0.0049=0.9476✓
 \end_layout
 
+\begin_layout Subsection
+lightbulb scenario
+\end_layout
+
+\begin_layout Standard
+Z=
+\begin_inset Formula $\frac{L-\mu}{\sigma}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+The lifetime of a certain brand of lightbulb is Normally distributed with
+ mean 2000 hours and standard deviation 75 hours.
+ Find the probability that a randomly selected bulb will have an hour lifespan
+ of...
+\end_layout
+
+\begin_layout Subsubsection
+P(L>2100)
+\end_layout
+
+\begin_layout Standard
+Z=
+\begin_inset Formula $\frac{2100-2000}{75}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+P(L>2200)
+\end_layout
+
+\begin_layout Subsubsection
+P(L<2050)
+\end_layout
+
+\begin_layout Standard
+Z=
+\begin_inset Formula $\frac{2050-2000}{75}$
+\end_inset
+
+=0.67
+\begin_inset Newline newline
+\end_inset
+
+1-P(Z>0.67)=1-0.2514
+\end_layout
+
+\begin_layout Subsubsection
+skip
+\end_layout
+
+\begin_layout Subsubsection
+P(1950<L<2100)
+\end_layout
+
+\begin_layout Subsubsection
+skip
+\end_layout
+
+\begin_layout Subsubsection
+P(1900<L<1950)
+\end_layout
+
+\begin_layout Standard
+P(
+\begin_inset Formula $\frac{1900-2000}{75}$
+\end_inset
+
+<L<
+\begin_inset Formula $\frac{1950-2000}{75}$
+\end_inset
+
+)
+\end_layout
+
 \end_body
 \end_document
